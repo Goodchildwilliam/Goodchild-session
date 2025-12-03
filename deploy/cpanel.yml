@@ -1,0 +1,13 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/goodchild-bots/home/goodchildmd-session/public_html/
+    - /bin/cp -R images $DEPLOYPATH
+    
+
+
+
+
+
+
+
