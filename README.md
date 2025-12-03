@@ -118,7 +118,8 @@ const Goodchild = GoodchildConnect({
 [`HERE'S AN EXAMPLE OUTPUT`](https://wa.me/255792375563)
 # `Owner`
 
- <a href="https://github.com/Goodchildwilliam"><img src="https://github.com/mauricegift.png" width="250" height="250" alt="Goodchild Tech"/></a>
+ <a href="https://github.com/Goodchildwilliam"><img src="https://files.catbox.moe/cl3ra4.jpg" width="250" height="250" alt="Goodchild Tech"/></a>
 
 
    
+
